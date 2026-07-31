@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
   <img src="https://www.theregretwall.com/banner.png" alt="The Regret Wall Banner" width="100%" />
 
@@ -106,7 +106,7 @@
     <tr>
       <td width="50%" align="center">
         <b>Main Page & Global Feed</b><br/><br/>
-        <img src="" alt="Main Page and Global Feed" width="100%" />
+        <img src="https://www.theregretwall.com/ss/mainpage.png" alt="Main Page and Global Feed" width="100%" />
       </td>
       <td width="50%" align="center">
         <b>Interactive World Map</b><br/><br/>
@@ -161,4 +161,3 @@ graph TD
 <div align="center">
   <sub>The Regret Wall - Tüm Hakları Saklıdır. Private Product Showcase.</sub>
 </div>
-](https://www.theregretwall.com/ss/mainpage.png)
