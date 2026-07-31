@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
   <img src="https://www.theregretwall.com/banner.png" alt="The Regret Wall Banner" width="100%" />
 
@@ -161,3 +161,4 @@ graph TD
 <div align="center">
   <sub>The Regret Wall - Tüm Hakları Saklıdır. Private Product Showcase.</sub>
 </div>
+](https://www.theregretwall.com/ss/mainpage.png)
