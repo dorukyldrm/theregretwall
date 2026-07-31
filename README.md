@@ -1,1 +1,167 @@
-# theregretwall
+<div align="center">
+
+  <img src="public/banner.png" alt="The Regret Wall Banner" width="100%" />
+
+  # 🌌 The Regret Wall (Pişmanlık Duvarı)
+
+  **Duygusal Yükleri Özgürleştirme ve İyileşme Platformu**
+
+  *Kimliğinizi gizli tutarak içinde kalanları paylaşın, rahatlayın ve yalnız olmadığınızı hissedin.*
+
+  <br />
+
+  [![Canlı Sitede İnceleyin](https://img.shields.io/badge/🌐_Canlı_Sitede_İnceleyin-theregretwall.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.theregretwall.com)
+  [![Desteklenen Diller](https://img.shields.io/badge/🌍_Desteklenen_Diller-25_Dil-blue?style=for-the-badge&logo=translate&logoColor=white)](#-çok-dilli-mimari-i18n)
+  [![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+  [![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+</div>
+
+---
+
+## 📌 Problem ve Çözüm Özeti
+
+* **Problem**: İnsanlar hayatları boyunca ifade edemedikleri, içlerinde biriken derin pişmanlıkları ve duygusal yükleri yalnız başlarına taşımakta; bu durum zihinsel bir izolasyon duygusu yaratmaktadır.
+* **Çözüm**: **The Regret Wall**, insanların tamamen anonim bir şekilde pişmanlıklarını dijital evrene bırakabilecekleri, dünya haritası üzerinde küresel duygusal ağı keşfedebilecekleri ve tarihi AI kişilikleri ile dertleşebilecekleri 25 dilde hizmet veren aktif ve küresel bir web platformudur.
+
+---
+
+## 🛠️ Teknoloji ve Beceri Kategorileri
+
+### 🌐 Frontend ve Arayüz
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mapbox_GL-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+</p>
+
+### ⚡ Backend ve Veritabanı
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL_(PostGIS)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🤖 Yapay Zeka ve ML Entegrasyonları
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python_AI_SDK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### ☁️ Dağıtım ve DevOps (Deployment)
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## ✨ Öne Çıkan Özellikler
+
+1. **🌍 Küresel Kozmos ve Etkileşimli Harita**:
+   - Mapbox GL ve PostgreSQL PostGIS mekansal sorguları kullanılarak geliştirilen interaktif harita haritası.
+   - Farklı coğrafyalardaki pişmanlık düğümlerinin yoğunluğuna göre dinamik kümeleme (clustering) ve ışıldama efektleri.
+
+2. **📜 Tarihi AI Kişilikler ile Empati Sohbetleri**:
+   - Gelişmiş LLM (Google Gemini / Groq) entegrasyonu ile Robert Oppenheimer, Kurt Cobain, Sylvia Plath ve Marie Curie gibi tarihi figürlerin yapay zeka modelleriyle dertleşme alanı.
+
+3. **🌿 İyileşme Yolculuğu (Healing Journey)**:
+   - Kullanıcıların pişmanlıklarını kabullenmelerine, duygusal farkındalık kazanmalarına ve öz-şefkat geliştirmelerine yardımcı olan adım adım rehberlik sistemi.
+
+4. **🔄 Dönüşüm Hikayeleri (Transformation Stories)**:
+   - Topluluk tarafından paylaşılan, pişmanlıkların nasıl birer olgunlaşma ve ders çıkarma hikayesine dönüştüğünü gösteren ilham verici deneyim alanı.
+
+5. **🌍 25 Dilde Tam Yerelleştirme (i18n Engine)**:
+   - İngilizce, Türkçe, İspanyolca, Fransızca, Almanca, Rusça, Ukraynaca, Arapça, Hintçe, Japonca, Korece, Portekizce, Azerbaycan Türkçesi, Çince, Endonezce, İtalyanca, Felemenkçe, Tagalogca, Vietnamca, Lehçe, İsveççe, Norveççe, Tayca, İbranice ve Malayca dillerinde eksiksiz destek.
+
+---
+
+## 🖼️ Ekran Görüntüleri ve Platform Galerisi
+
+| Ana Sayfa ve Akış | Etkileşimli Dünya Haritası |
+| :---: | :---: |
+| ![Ana Sayfa](public/ss/mainpage.png) | ![Dünya Haritası](public/ss/map.PNG) |
+
+| Tarihi AI Kişilikler Sohbeti | İyileşme ve Blog Alanı |
+| :---: | :---: |
+| ![AI Sohbet](public/ss/history.PNG) | ![Blog Alanı](public/ss/blog.PNG) |
+
+---
+
+## 🏗️ Sistem Mimarisi (Architecture)
+
+Aşağıdaki şema, platformdaki veri akışını, kullanıcı etkileşimini ve altyapı bileşenlerini göstermektedir:
+
+```mermaid
+graph TD
+    A[Kullanıcı Arayüzü - Next.js 16 / React 19] --> B[i18n Katmanı - 25 Dil Dictionarileri]
+    A --> C[API Routes & Server Actions]
+    
+    C --> D[PostgreSQL + PostGIS Spatial Engine]
+    C --> E[AI Engine - Google Gemini / Groq API]
+    C --> F[E-posta & Bildirim Servisleri - Resend API]
+    
+    D --> G[Geospatial Clustering - Mapbox GL Engine]
+    E --> H[Tarihi AI Personalar & Dertleşme Modülü]
+    
+    G --> A
+    H --> A
+```
+
+---
+
+## 🚀 Kurulum ve Yerel Çalıştırma (Getting Started)
+
+Projeyi yerel geliştirme ortamınızda çalıştırmak için aşağıdaki 3 adımı takip edin:
+
+### 1. Repoyu Kopyalayın ve Bağımlılıkları Yükleyin
+```bash
+git clone https://github.com/dorukyldrm/regret.git
+npm install
+```
+
+### 2. Çevre Değişkenlerini Yapılandırın
+Kök dizinde `.env.local` dosyasını oluşturun ve gerekli API anahtarlarını (Mapbox token, DB bağlantısı, Gemini API vb.) ekleyin.
+
+### 3. Geliştirici Sunucusunu Başlatın
+```bash
+npm run dev
+```
+Uygulamayı tarayıcınızda açmak için [http://localhost:3000](http://localhost:3000) adresine gidin.
+
+---
+
+## 📋 Proje Betikleri (Scripts)
+
+* `npm run dev`: Geliştirme sunucusunu başlatır.
+* `npm run build`: Projeyi derler ve üretim sürümünü hazırlar.
+* `npm run start`: Derlenmiş uygulamayı üretim modunda çalıştırır.
+* `npm run lint`: Kod stili ve ESLint kontrollerini yapar.
+* `npm run validate:content`: 25 dilin tüm çeviri sözlüklerini ve URL slug eşleşmelerini doğrular.
+* `npm run generate:metadata`: Statik dosyalardan meta verileri çıkararak JSON özetleri oluşturur.
+
+---
+
+<div align="center">
+  <sub>The Regret Wall - Tüm Hakları Saklıdır.</sub>
+</div>
