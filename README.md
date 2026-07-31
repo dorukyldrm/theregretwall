@@ -106,21 +106,21 @@
     <tr>
       <td width="50%" align="center">
         <b>Main Page & Global Feed</b><br/><br/>
-        <img src="https://ph-files.imgix.net/df1ecc78-93dd-4d66-950f-8229e94f959a.png?auto=compress,format&codec=mozjpeg&cs=strip&dpr=1&fit=max&fm=pjpg&frame=1&h=543&w=1100" alt="Main Page and Global Feed" width="100%" />
+        <img src="https://www.theregretwall.com/ss/mainpage.png" alt="Main Page and Global Feed" width="100%" />
       </td>
       <td width="50%" align="center">
         <b>Interactive World Map</b><br/><br/>
-        <img src="https://www.theregretwall.com/ss/map.PNG" alt="Interactive World Map" width="100%" />
+        <img src="https://www.theregretwall.com/ss/map.png" alt="Interactive World Map" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <b>Historical AI Persona Chat</b><br/><br/>
-        <img src="https://www.theregretwall.com/ss/history.PNG" alt="Historical AI Persona DM Chat" width="100%" />
+        <img src="https://www.theregretwall.com/ss/history.png" alt="Historical AI Persona DM Chat" width="100%" />
       </td>
       <td width="50%" align="center">
         <b>Healing Journey & Blog</b><br/><br/>
-        <img src="https://www.theregretwall.com/ss/blog.PNG" alt="Healing Journey and Blog Area" width="100%" />
+        <img src="https://www.theregretwall.com/ss/blog.png" alt="Healing Journey and Blog Area" width="100%" />
       </td>
     </tr>
   </table>
