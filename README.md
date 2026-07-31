@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="public/banner.png" alt="The Regret Wall Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/banner.png" alt="The Regret Wall Banner" width="100%" />
 
   # The Regret Wall (Pişmanlık Duvarı)
 
@@ -98,13 +98,30 @@
 
 ## Ekran Görüntüleri ve Platform Galerisi
 
-| Ana Sayfa ve Akış | Etkileşimli Dünya Haritası |
-| :---: | :---: |
-| ![Ana Sayfa](public/ss/mainpage.png) | ![Dünya Haritası](public/ss/map.PNG) |
-
-| Tarihi AI Kişilikler Sohbeti | İyileşme ve Blog Alanı |
-| :---: | :---: |
-| ![AI Sohbet](public/ss/history.PNG) | ![Blog Alanı](public/ss/blog.PNG) |
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <b>Ana Sayfa ve Akış</b><br/><br/>
+        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/mainpage.png" alt="Ana Sayfa" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <b>Etkileşimli Dünya Haritası</b><br/><br/>
+        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/map.PNG" alt="Dünya Haritası" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <b>Tarihi AI Kişilikler Sohbeti</b><br/><br/>
+        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/history.PNG" alt="AI Sohbet" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <b>İyileşme ve Blog Alanı</b><br/><br/>
+        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/blog.PNG" alt="Blog Alanı" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
