@@ -106,7 +106,7 @@
     <tr>
       <td width="50%" align="center">
         <b>Main Page & Global Feed</b><br/><br/>
-        <img src="https://www.theregretwall.com/ss/mainpage.png" alt="Main Page and Global Feed" width="100%" />
+        <img src="" alt="Main Page and Global Feed" width="100%" />
       </td>
       <td width="50%" align="center">
         <b>Interactive World Map</b><br/><br/>
