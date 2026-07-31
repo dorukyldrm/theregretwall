@@ -86,7 +86,7 @@
    - Farklı coğrafyalardaki pişmanlık düğümlerinin yoğunluğuna göre dinamik kümeleme (clustering) ve ışıldama efektleri.
 
 2. **Tarihi AI Kişilikler ile Empati Sohbetleri**:
-   - Gelişmiş LLM (Google Gemini / Groq) entegrasyonu ile Robert Oppenheimer, Kurt Cobain, Sylvia Plath ve Marie Curie gibi tarihi figürlerin yapay zeka modelleriyle dertleşme alanı.
+   - Gelişmiş LLM (Google Gemini / Groq) entegrasyonu ile Nikola Tesla, Robert Oppenheimer, Kurt Cobain, Sylvia Plath ve Marie Curie gibi tarihi figürlerin yapay zeka modelleriyle dertleşme alanı.
 
 3. **İyileşme Yolculuğu (Healing Journey)**:
    - Kullanıcıların pişmanlıklarını kabullenmelerine, duygusal farkındalık kazanmalarına ve öz-şefkat geliştirmelerine yardımcı olan adım adım rehberlik sistemi.
@@ -105,22 +105,22 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <b>Ana Sayfa ve Akış</b><br/><br/>
-        <img src="https://ph-files.imgix.net/df1ecc78-93dd-4d66-950f-8229e94f959a.png?auto=compress,format&codec=mozjpeg&cs=strip&dpr=1&fit=max&fm=pjpg&frame=1&h=543&w=1100" alt="Ana Sayfa" width="100%" />
+        <b>Main Page & Global Feed</b><br/><br/>
+        <img src="https://ph-files.imgix.net/df1ecc78-93dd-4d66-950f-8229e94f959a.png?auto=compress,format&codec=mozjpeg&cs=strip&dpr=1&fit=max&fm=pjpg&frame=1&h=543&w=1100" alt="Main Page and Global Feed" width="100%" />
       </td>
       <td width="50%" align="center">
-        <b>Etkileşimli Dünya Haritası</b><br/><br/>
-        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/map.PNG" alt="Dünya Haritası" width="100%" />
+        <b>Interactive World Map</b><br/><br/>
+        <img src="https://www.theregretwall.com/ss/map.PNG" alt="Interactive World Map" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>Tarihi AI Kişilikler Sohbeti</b><br/><br/>
-        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/history.PNG" alt="AI Sohbet" width="100%" />
+        <b>Historical AI Persona Chat</b><br/><br/>
+        <img src="https://www.theregretwall.com/ss/history.PNG" alt="Historical AI Persona DM Chat" width="100%" />
       </td>
       <td width="50%" align="center">
-        <b>İyileşme ve Blog Alanı</b><br/><br/>
-        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/blog.PNG" alt="Blog Alanı" width="100%" />
+        <b>Healing Journey & Blog</b><br/><br/>
+        <img src="https://www.theregretwall.com/ss/blog.PNG" alt="Healing Journey and Blog Area" width="100%" />
       </td>
     </tr>
   </table>
