@@ -1,6 +1,9 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/banner.png" alt="The Regret Wall Banner" width="100%" />
+  <img src="https://www.theregretwall.com/banner.png" alt="The Regret Wall Banner" width="100%" />
+
+  <br/><br/>
+  <img src="https://www.theregretwall.com/logo.png" alt="The Regret Wall Logo" width="120" />
 
   # The Regret Wall (Pişmanlık Duvarı)
 
@@ -103,7 +106,7 @@
     <tr>
       <td width="50%" align="center">
         <b>Ana Sayfa ve Akış</b><br/><br/>
-        <img src="https://raw.githubusercontent.com/dorukyldrm/regret/main/public/ss/mainpage.png" alt="Ana Sayfa" width="100%" />
+        <img src="https://ph-files.imgix.net/df1ecc78-93dd-4d66-950f-8229e94f959a.png?auto=compress,format&codec=mozjpeg&cs=strip&dpr=1&fit=max&fm=pjpg&frame=1&h=543&w=1100" alt="Ana Sayfa" width="100%" />
       </td>
       <td width="50%" align="center">
         <b>Etkileşimli Dünya Haritası</b><br/><br/>
